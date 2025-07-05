@@ -14,7 +14,7 @@ It took me a heck of a time to understand what data.gov.hk is trying to show.
   - API request (ofc)
   - JSON and python dictionary handling
   - datetime handling
-  Maybe, in the near future. I will make a class for each cat of the data.
+  - Maybe, in the near future. I will make a class for each cat of the data.
 
 ## Dependicies
   - Google Colab (My Primary working platform)
