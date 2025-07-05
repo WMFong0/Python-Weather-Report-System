@@ -7,7 +7,7 @@ It took me a hell of a time to understand what data.gov.hk is trying to show.
 
 ## Edge cases handled
   - When the 1-3 nearest automatic weather stations are not working/ under maintenance.
-    - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scale area electricity failure) issue. It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the 2 nearest stations are not available. 
+    - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scale area electricity outage). It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the 2 nearest stations are not available. 
   - HTTP request error, any sort of API request error
   - Full maintenance of HKO's system. Won't break the whole program.
 
