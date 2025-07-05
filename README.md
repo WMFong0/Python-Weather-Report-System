@@ -1,4 +1,4 @@
-# Python-Weather-Report-System
+# Python Weather Report System
 
 Currently only supports Tuen Mun(Yes, my hometown) and its surrounding areas' last hour rainfall data.
 Very likely, I might add a CSV file to allow user to key in their current location, and show them the weather at their own location.
