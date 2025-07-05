@@ -8,7 +8,7 @@ It took me a heck of a time to understand what data.gov.hk is trying to show.
 ## Edge cases handled
   - When 1-3 nearest automatic weather station is not working/ under maintance.
     - I kindly believe that this is more than enough to solve maintanence issue. It will still be able to show the 4th nearest automatic weather station. A short notice will notify user that those 2 nearest station is not available. 
-  - When having http request error, any sort of API request error
+  - http request error, any sort of API request error
 
 ## Knowledge used
   - API request (ofc)
