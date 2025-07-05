@@ -21,3 +21,8 @@ It took me a hell of a time to understand what data.gov.hk is trying to show.
   - Google Colab (My Primary working platform)
   - Python 3
   
+## How to use
+  1. Click the ***Python_Weather_App.ipynb***
+  2. Click **Open in Colab**
+  3. Click **Run all** for first time.
+  4. Run **the second module only** for the second time or after (You can still click run all, it just takes a split second longer)
