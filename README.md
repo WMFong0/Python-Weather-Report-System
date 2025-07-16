@@ -1,9 +1,8 @@
 # Python Weather Report System
 
-Currently only supports Tuen Mun(Yes, my hometown) and its surrounding areas' last hour rainfall data.
-Very likely, I might add a CSV file to allow user to key in their current location, and show them the weather at their own location.
-
-It took me a hell of a time to understand what data.gov.hk is trying to show.
+Support all districts. Yet, the experimental feature is only available in some selective district, due to the complexity of other districts.
+Very likely, I might add a CSV file to allow user to key in their current location, and show them the weather at their own location. 
+Currently, we allow users to key in their district and select the nearby weather station instead.
 
 ## Edge cases handled
   - When the 1-3 nearest automatic weather stations are not working/ under maintenance.
@@ -13,9 +12,11 @@ It took me a hell of a time to understand what data.gov.hk is trying to show.
 
 ## Knowledge used
   - API request (ofc)
-  - JSON and Python dictionary handling
+  - JSON
+  - Python dictionary handling
   - datetime handling
-  - Maybe, in the near future. I will make a class for each category of the data.
+  - OOP
+
 
 ## Dependicies
   - Google Colab (My Primary working platform)
@@ -25,4 +26,4 @@ It took me a hell of a time to understand what data.gov.hk is trying to show.
   1. Click the ***Python_Weather_App.ipynb***
   2. Click **Open in Colab**
   3. Click **Run all** for first time.
-  4. Run **the second module only** for the second time or after (You can still click run all, it just takes a split second longer)
+  4. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
