@@ -16,7 +16,7 @@ The Report covers a small amount of data provided by HKO, including:
 - Tropical Cyclone Position
 - UV index
 - Warning Message
-- Special Weather Tips
+- Special Weather Tips (Never seen them appeared but, ok)
 
 ## Edge cases handled
   - When the 1-3 nearest automatic weather stations are not working/ under maintenance.
