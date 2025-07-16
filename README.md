@@ -7,11 +7,22 @@ Yet, the experimental feature is only available in some selective district, due 
 Very likely, I might add a CSV file to allow user to key in their current location, and show them the weather at their own location. 
 Currently, we allow users to key in their district and select the nearby weather station instead.
 
+## The Report Covers
+The Report covers a small amount of data provided by HKO, including:
+- Lightning
+- Humidity
+- Temperature
+- Hourly Rainfall
+- Tropical Cyclone Position
+- UV index
+- Warning Message
+- Special Weather Tips
+
 ## Edge cases handled
   - When the 1-3 nearest automatic weather stations are not working/ under maintenance.
     - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scale area electricity outage). It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the stations located in Tuen Mun are not available. 
   - HTTP request error, any sort of API request error
-  - Full maintenance of HKO's system. Won't break the whole program.
+  - Full maintenance of HKO's system. Won't break the whole program at least
 
 ## Knowledge used
   - API request (ofc)
