@@ -20,7 +20,7 @@ The Report covers a small amount of data provided by HKO, including:
 
 ## Edge cases handled
   - When the 1-3 nearest automatic weather stations are not working/ under maintenance.
-    - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scale area electricity outage). It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the stations located in Tuen Mun are not available. 
+    - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scaled electricity outage). It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the stations located in Tuen Mun are not available. 
   - HTTP request error, any sort of API request error
   - Full maintenance of HKO's system. Won't break the whole program at least
 
@@ -41,3 +41,6 @@ The Report covers a small amount of data provided by HKO, including:
   2. Click **Open in Colab**
   3. Click **Run all** for first time.
   4. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
+
+# Example output
+<img width="1819" height="746" alt="A sample data of the app" src="https://github.com/user-attachments/assets/44ff06af-bb15-4aee-ad4f-6bc16db5658b" />
