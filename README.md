@@ -37,7 +37,7 @@ The Report covers a small amount of data provided by HKO, including:
   - Python 3
   
 ## How to use
-  1. Click [![Open in Streamlit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Second-Version-Hotfix/Python_Weather_App.ipynb)
+  1. Click [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Second-Version-Hotfix/Python_Weather_App.ipynb)
   2. Click **Run all** for first time.
   3. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
 
