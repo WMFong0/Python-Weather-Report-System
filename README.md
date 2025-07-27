@@ -39,6 +39,9 @@ The Report covers a small amount of data provided by HKO, including:
 ## How to use
   1. Click the ***Python_Weather_App.ipynb***
   2. Click **Open in Colab**
+
+
+[![Open in Streamlit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Second-Version-Hotfix/Python_Weather_App.ipynb)
   3. Click **Run all** for first time.
   4. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
 
