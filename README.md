@@ -4,7 +4,7 @@ Support all locations.
 
 Yet, the experimental feature is only available in some selective locations/districts (Tuen Mun, Tin Shui Wai, Yuen Long, Sai Kung does not support the launch of nearest weather station so,), due to the complexity of other districts.
 
-Very likely, I might add a CSV file to allow user to key in their current location, and show them the weather at their own location. 
+Very likely, I might add a CSV file to automate the selection. 
 Currently, we allow users to key in their district and select the nearby weather station instead.
 
 ## The Report Covers
