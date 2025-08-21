@@ -27,8 +27,9 @@ The Report covers a small amount of data provided by HKO, including:
 ## Knowledge used
   - API request (ofc)
   - JSON
-  - Python dictionary handling
-  - datetime handling
+  - CSV
+  - Python dictionary Handling
+  - Datetime handling
   - OOP
 
 
