@@ -1,5 +1,7 @@
 # Python Weather Report System
 
+MAUNAL IMPORT IS REQUIRED DURING THE EARLY ACCESS STAGE.
+
 Support all locations for most of the information.
 
 Yet, the experimental feature is only available in some selective locations/districts (Tuen Mun, Tin Shui Wai, Yuen Long, Sai Kung does not support the launch of nearest weather station so,), due to the complexity of other districts.
@@ -38,9 +40,13 @@ The Report covers a small amount of data provided by HKO, including:
   - Python 3 or higher
   
 ## How to use
-  1. Click [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Third-Version-Early-Access/Python_Weather_App.ipynb)
-  2. Click **Run all** for first time.
-  3. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
+  1. Download ***Weather_Station_for_temp.csv***
+  2. Click [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Third-Version-Early-Access/Python_Weather_App.ipynb)
+  3. Click the folder icon from the left-hand sidebar
+  4. Click the upload icon (located directly below the header "**Files**")
+  5. Upload ***Weather_Station_for_temp.csv***
+  6. Click **Run all** for first time.
+  7. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
 
 # Example output
 <img width="910" height="765" alt="image" src="https://github.com/user-attachments/assets/c2976fc9-ecb1-46bf-86e5-8cfdcb630273" />
