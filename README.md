@@ -23,7 +23,7 @@ The Report covers a small amount of data provided by HKO, including:
     - I kindly believe that this is more than enough to solve the daily maintenance (or more than daily, etc., large-scaled electricity outage). It will still be able to show the 4th nearest automatic weather station (Somewhere around Yuen Long). A short notice will notify the user that the stations located in Tuen Mun are not available. 
   - HTTP request error, any sort of API request error
   - Full maintenance of HKO's system. Won't break the whole program at least
-
+  - Minor Input Error in Grammar
 ## Knowledge used
   - API request (ofc)
   - JSON
