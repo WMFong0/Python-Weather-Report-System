@@ -34,7 +34,7 @@ The Report covers a small amount of data provided by HKO, including:
 
 ## Dependicies
   - Google Colab (My Primary working platform)
-  - Python 3.10 or higher
+  - Python 3 or higher
   
 ## How to use
   1. Click [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Second-Version-Hotfix/Python_Weather_App.ipynb)
