@@ -42,4 +42,5 @@ The Report covers a small amount of data provided by HKO, including:
   3. Run **the last module only** for the second time or after (You can still click run all, it just takes a split second longer)
 
 # Example output
-<img width="1819" height="746" alt="A sample data of the app" src="https://github.com/user-attachments/assets/44ff06af-bb15-4aee-ad4f-6bc16db5658b" />
+<img width="910" height="765" alt="image" src="https://github.com/user-attachments/assets/c2976fc9-ecb1-46bf-86e5-8cfdcb630273" />
+
