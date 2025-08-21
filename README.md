@@ -1,6 +1,6 @@
 # Python Weather Report System
 
-Support all locations. 
+Support all locations for most of the information.
 
 Yet, the experimental feature is only available in some selective locations/districts (Tuen Mun, Tin Shui Wai, Yuen Long, Sai Kung does not support the launch of nearest weather station so,), due to the complexity of other districts.
 
@@ -34,7 +34,7 @@ The Report covers a small amount of data provided by HKO, including:
 
 ## Dependicies
   - Google Colab (My Primary working platform)
-  - Python 3
+  - Python 3.10 or higher
   
 ## How to use
   1. Click [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Second-Version-Hotfix/Python_Weather_App.ipynb)
