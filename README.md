@@ -1,6 +1,6 @@
 # Python Weather Report System
 
-**MAUNAL IMPORT IS REQUIRED DURING THE EARLY ACCESS STAGE.**
+## MAUNAL IMPORT IS REQUIRED DURING THE EARLY ACCESS STAGE
 
 Support all locations for most of the information.
 
