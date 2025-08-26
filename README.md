@@ -1,4 +1,4 @@
-# Python Weather Report System
+# Python Weather Report System (Discontinued due to limitations)
 
 ## MAUNAL IMPORT IS REQUIRED DURING THE EARLY ACCESS STAGE
 
