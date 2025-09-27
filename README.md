@@ -2,6 +2,8 @@
 
 ## MAUNAL IMPORT IS REQUIRED DURING THE EARLY ACCESS STAGE
 
+ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WMFong0/Python-Weather-Report-System/blob/Third-Version-Early-Access/Python_Weather_App.ipynb)
+ 
 Support all locations for most of the information.
 
 Yet, the experimental feature is only available in some selective locations/districts (Tuen Mun, Tin Shui Wai, Yuen Long, Sai Kung does not support the launch of nearest weather station so,), due to the complexity of other districts.
